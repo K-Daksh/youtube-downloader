@@ -1,0 +1,25 @@
+{
+  "manifest_version": 3,
+  "name": "Catfish - Single click Youtube video downloader",
+  "version": "1.0",
+  "description": "Catfish masks the download button on Youtube and allows users to download the video for free.",
+  "action": {
+    "default_icon": {
+      "16": "icons/icon16.png",
+      "48": "icons/icon48.png",
+      "128": "icons/icon128.png"
+    }
+  },
+  "icons": {
+    "16": "icons/icon16.png",
+    "48": "icons/icon48.png",
+    "128": "icons/icon128.png"
+  },
+  "content_scripts": [
+    {
+      "matches": ["<all_urls>"],
+      "js": ["script.js"],
+      "run_at": "document_end"
+    }
+  ]
+}

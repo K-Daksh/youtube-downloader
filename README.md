@@ -29,6 +29,16 @@ Because who doesn't want to download videos fast ⚡, and who doesn’t like a l
 
 Plus, this is open-source. That means it’s not just my project—it’s *our* project. Let’s make it even better together! 🤝
 
+## Screenshots
+
+Here’s a quick look at how the extension works in action on your desktop:
+
+![Screenshot 1](https://github.com/K-Daksh/youtube-downloader/raw/main/SS/1.png)
+*Clicking the download button.*
+
+![Screenshot 2](https://github.com/K-Daksh/youtube-downloader/raw/main/SS/2.png)
+*Video being downloaded.*
+
 ## Contributing
 
 Feel free to fork the repo, fix something, or add your own improvements. Just submit a pull request, and I’ll take a look 🔍.

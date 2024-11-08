@@ -1,4 +1,4 @@
-# Catfish YouTube Downloader: The Fastest Way to Download High-Quality YouTube Videos
+# ![Catfish Icon](https://github.com/K-Daksh/youtube-downloader/raw/main/frontend/icons/icon48.png) Catfish YouTube Downloader: The Fastest Way to Download High-Quality YouTube Videos
 
 Hey there! Welcome to **Catfish YouTube Downloader**—my little project to make downloading YouTube videos as fast and easy as possible ⚡. It’s open-source, runs locally, and doesn’t mess around when it comes to speed. Best part? It’s super simple to set up. Let’s get started! 🎉
 

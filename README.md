@@ -1,6 +1,6 @@
 # ![Catfish Icon](https://github.com/K-Daksh/youtube-downloader/raw/main/frontend/icons/icon48.png) Catfish YouTube Downloader: The Fastest Way to Download High-Quality YouTube Videos
 
-Hey there! Welcome to **Catfish YouTube Downloader**—my little project to make downloading YouTube videos as fast and easy as possible ⚡. It’s open-source, runs locally, and doesn’t mess around when it comes to speed. Best part? It’s super simple to set up. Let’s get started! 🎉
+Hey there! Welcome to **Catfish YouTube Downloader**—my little project to make downloading YouTube videos as fast and easy as possible ⚡. It’s open-source, runs locally, and doesn’t mess around when it comes to speed. Best part? It’s super simple to set up. Let’s get started!
 
 ## How to Install
 
@@ -17,7 +17,7 @@ Hey there! Welcome to **Catfish YouTube Downloader**—my little project to make
 
 5. Hit ‘Load Unpacked’ and choose the `frontend` folder from your cloned repo.
 
-Boom! Your download button will turn pink (because, why not?) 💖—that's how you know it's working.
+Boom! Your download button will turn pink or red (Maybe both?) —that's how you know it's working.
 
 ## How to Use
 
@@ -41,10 +41,6 @@ Here’s a quick look at how the extension works in action on your desktop:
 
 ## Contributing
 
-Feel free to fork the repo, fix something, or add your own improvements. Just submit a pull request, and I’ll take a look 🔍.
+Feel free to fork the repo, fix something, or add your own improvements. Just submit a pull request, and I’ll take a look .
 
-## License
-
-This project is licensed under the MIT License. See the LICENSE file for the legal stuff ⚖️.
-
-Happy downloading! 🚀
+Happy downloading! (Loot Machado 🔥)

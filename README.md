@@ -6,7 +6,7 @@ Hey there! Welcome to **Catfish YouTube Downloader**—my little project to make
 
 1. Clone the repo to your machine. You can do that by running:
     ```bash
-    git clone <repo-url>
+    git clone "https://github.com/K-Daksh/youtube-downloader.git"
     ```
 
 2. Download the `CatfishServer.exe` file and drop it where you want your videos saved.

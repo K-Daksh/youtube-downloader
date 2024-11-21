@@ -43,4 +43,4 @@ Here’s a quick look at how the extension works in action on your desktop:
 
 Feel free to fork the repo, fix something, or add your own improvements. Just submit a pull request, and I’ll take a look .
 
-Happy downloading! (Loot Machado 🔥)
+Happy downloading!
